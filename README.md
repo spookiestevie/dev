@@ -1,4 +1,4 @@
 # dev
 for use on webserver
-cd dev
-git clone https://github.com/spookiestevie/rise-paperwallet.git
+1. cd dev
+2. git clone https://github.com/spookiestevie/rise-paperwallet.git
